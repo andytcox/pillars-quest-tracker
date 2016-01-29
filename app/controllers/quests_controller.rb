@@ -1,5 +1,5 @@
 class QuestsController < ApplicationController
-  before_action :set_quest, only: [:show, :edit, :update, :destroy]
+  before_action :set_quest, only: [:show, :edit, :update, :destroy, :toggle]
 
   # GET /quests
   # GET /quests.json
@@ -34,6 +34,20 @@ class QuestsController < ApplicationController
         format.html { render :new }
         format.json { render json: @quest.errors, status: :unprocessable_entity }
       end
+    end
+  end
+
+
+  def toggle
+    if @quest.done
+      @quest.update_attributes(:done => false, :have => false)
+    elsif @quest.have
+      @quest.update_attributes(:done => true, :have => false)
+    else
+      @quest.update_attributes(:done => false, :have => true)
+    end
+    respond_to do |format|
+      format.js
     end
   end
 

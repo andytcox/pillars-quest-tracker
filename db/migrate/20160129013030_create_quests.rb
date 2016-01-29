@@ -5,6 +5,9 @@ class CreateQuests < ActiveRecord::Migration
       t.text :person
       t.text :location
       t.text :notes
+      t.string :quest_type
+      t.boolean :done, :default => false
+      t.boolean :have, :default => false
 
       t.timestamps null: false
     end

@@ -18,8 +18,11 @@ ActiveRecord::Schema.define(version: 20160129013030) do
     t.text     "person"
     t.text     "location"
     t.text     "notes"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
+    t.string   "quest_type"
+    t.boolean  "done",       default: false
+    t.boolean  "have",       default: false
+    t.datetime "created_at",                 null: false
+    t.datetime "updated_at",                 null: false
   end
 
 end

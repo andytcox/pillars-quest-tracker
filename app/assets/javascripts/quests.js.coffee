@@ -3,7 +3,8 @@
 # You can use CoffeeScript in this file: http://coffeescript.org/
 
 $ ->
-  $('#quests').on 'click', '.quest-attr a', (e)->
+  $table = $('#quests')
+  $table.on 'click', '.quest-attr a', (e)->
     console.log('clicked')
     e.preventDefault()
     e.stopPropagation()
@@ -11,6 +12,17 @@ $ ->
     return false
 
 
-  $('#quests').on 'ajax:before', '.toggle-quest', ()->
+  $table.on 'ajax:before', '.toggle-quest', ()->
     console.log('ajax')
     $(this).toggleClass('loading')
+
+  $table.tablesorter()
+
+  $('#whitemarch').on 'click', ()->
+    $(this).toggleClass('active')
+    $table.toggleClass('no-white-march')
+
+  $('.toggle-quest').on 'click', ()->
+    $(this).toggleClass('active')
+    klass = "." + $(this).data().target
+    $(klass).toggleClass('hidden', $(this).hasClass('active'))

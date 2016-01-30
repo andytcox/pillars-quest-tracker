@@ -18,3 +18,27 @@
 
   }
 }
+
+#quests.no-white-march{
+  .white-march{
+    display: none;
+  }
+}
+
+#quests.dont-have{
+  .quest:not(.default){
+    display: none;
+  }
+}
+
+#quests.have{
+  .quest:not(.info){
+    display: none;
+  }
+}
+
+#quests.finished{
+  .quest:not(.success){
+    display: none;
+  }
+}

@@ -4,6 +4,7 @@
   %td.quest-attr= quest.person.try(:html_safe)
   %td.quest-attr= quest.location.try(:html_safe)
   %td.quest-attr= quest.notes.try(:html_safe)
+  %td= quest.quest_type
   %td
     = link_to toggle_quest_path(quest), :remote => true, :class => "btn btn-#{set_quest_class(quest)} toggle-quest", :method => :put do
       %span.show-on-load= icon('spinner', 'Saving', :class => 'fa-spin')

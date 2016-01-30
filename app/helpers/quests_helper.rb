@@ -8,8 +8,9 @@ module QuestsHelper
     ]
   end
 
-  def set_quest_class(quest)
-    klass = ['quest']
+  def set_quest_class(quest, btn=false)
+    klass = []
+    klass << 'quest' unless btn
     if quest.done
       klass << 'success'
     elsif quest.have
@@ -17,7 +18,7 @@ module QuestsHelper
     else
       klass << 'default'
     end
-    if quest.white_march?
+    if !btn && quest.white_march?
       klass << 'white-march'
     end
     klass.join(' ')

@@ -8,12 +8,30 @@
   %table.table.table-striped#quests
     %thead
       %tr
-        %th= model_class.human_attribute_name(:id)
-        %th= model_class.human_attribute_name(:name)
-        %th= model_class.human_attribute_name(:person)
-        %th= model_class.human_attribute_name(:location)
-        %th= model_class.human_attribute_name(:notes)
-        %th Quest Type
+        %th
+          = model_class.human_attribute_name(:id)
+          = icon('arrow-up', '', :class => 'up')
+          = icon('arrow-down', '', :class => 'down')
+        %th
+          = model_class.human_attribute_name(:name)
+          = icon('arrow-up', '', :class => 'up')
+          = icon('arrow-down', '', :class => 'down')
+        %th
+          = model_class.human_attribute_name(:person)
+          = icon('arrow-up', '', :class => 'up')
+          = icon('arrow-down', '', :class => 'down')
+        %th
+          = model_class.human_attribute_name(:location)
+          = icon('arrow-up', '', :class => 'up')
+          = icon('arrow-down', '', :class => 'down')
+        %th
+          = model_class.human_attribute_name(:notes)
+          = icon('arrow-up', '', :class => 'up')
+          = icon('arrow-down', '', :class => 'down')
+        %th
+          Quest Type
+          = icon('arrow-up', '', :class => 'up')
+          = icon('arrow-down', '', :class => 'down')
         %th=t '.actions', :default => t("helpers.actions")
     %tbody
       - @quests.each do |quest|

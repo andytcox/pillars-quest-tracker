@@ -19,26 +19,27 @@
   }
 }
 
-#quests.no-white-march{
-  .white-march{
-    display: none;
+#quests{
+  thead{
+    .up,.down{
+      display: none;
+    }
+    th{
+      &.headerSortUp{
+        .up{
+          display: inline-block;
+        }
+      }
+      &.headerSortDown{
+        .down{
+          display: inline-block;
+        }
+      }
+    }
   }
-}
-
-#quests.dont-have{
-  .quest:not(.default){
-    display: none;
-  }
-}
-
-#quests.have{
-  .quest:not(.info){
-    display: none;
-  }
-}
-
-#quests.finished{
-  .quest:not(.success){
-    display: none;
+  &.no-white-march{
+    .white-march{
+      display: none;
+    }
   }
 }

@@ -83,7 +83,21 @@ namespace :scrape do
       end
     end
   end
+
+  task :dump => :environment do
+    data = Quest.all.pluck_to_hash(:name, :person, :location, :notes, :quest_type, :done, :have)
+    STDOUT.puts "File will be placed in `~/db/seeds/<file_name>.yml` please specify a file name(without .yml):"
+    file_name = STDIN.gets.chomp
+    File.open(Rails.root.join('db', 'seeds', "#{file_name}.yml"), 'w+') { |f| f.puts data.to_yaml }
+  end
+
+
+  task :load => :environment do
+    STDOUT.puts "Which seed file would you like to load(don't include .yml)?"
+    file_name = STDIN.gets.chomp
+    quests = YAML.load_file Rails.root.join('db', 'seeds', "#{file_name}.yml")
+    quests.each do |quest|
+      Quest.create(quest)
+    end
+  end
 end
-
-
-          # Quest.create(:name => anchors[0], :person => anchors[1], :location => anchors[2], :notes => anchors[3])

@@ -18,7 +18,7 @@ module QuestsHelper
     else
       klass << 'default'
     end
-    if !btn && quest.white_march?
+    if !btn && quest.white_march_part_1?
       klass << 'white-march'
     end
     klass.join(' ')

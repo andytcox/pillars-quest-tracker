@@ -1,0 +1,724 @@
+---
+- :name: |2
+     <b><a href="http://pillarsofeternity.gamepedia.com/A_Farmer%27s_Plight" title="A Farmer's Plight">A Farmer's Plight</a></b>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Rumbald" title="Rumbald">Rumbald</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Dyrford" title="Dyrford">Dyrford</a>
+  :notes: |2+
+
+  :quest_type: side
+  :done: true
+  :have: false
+- :name: |2-
+     <b><a href="http://pillarsofeternity.gamepedia.com/index.php?title=A_Good_Haul&amp;action=edit&amp;redlink=1" class="new" title="A Good Haul (page does not exist)">A Good Haul</a></b> <small><a href="http://pillarsofeternity.gamepedia.com/The_White_March_-_Part_I" title="The White March - Part I" class="mw-redirect">[WM1]</a><small>
+    </small></small>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/index.php?title=Feara&amp;action=edit&amp;redlink=1" class="new" title="Feara (page does not exist)">Feara</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Stalwart" title="Stalwart" class="mw-redirect">Stalwart</a>
+  :notes: |2+
+
+  :quest_type: side
+  :done: 
+  :have: 
+- :name: |2-
+     <b><a href="http://pillarsofeternity.gamepedia.com/index.php?title=A_Lovely_Drop&amp;action=edit&amp;redlink=1" class="new" title="A Lovely Drop (page does not exist)">A Lovely Drop</a></b> <small><a href="http://pillarsofeternity.gamepedia.com/The_White_March_-_Part_I" title="The White March - Part I" class="mw-redirect">[WM1]</a><small>
+    </small></small>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/index.php?title=Reyfald&amp;action=edit&amp;redlink=1" class="new" title="Reyfald (page does not exist)">Reyfald</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Stalwart" title="Stalwart" class="mw-redirect">Stalwart</a>
+  :notes: 
+  :quest_type: side
+  :done: 
+  :have: 
+- :name: |2
+     <b><a href="http://pillarsofeternity.gamepedia.com/A_Mother%27s_Plea" title="A Mother's Plea">A Mother's Plea</a></b>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Aufra" title="Aufra">Aufra</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Gilded_Vale" title="Gilded Vale">Gilded Vale</a>
+  :notes: |2+
+
+  :quest_type: side
+  :done: true
+  :have: false
+- :name: |2
+     <b><a href="http://pillarsofeternity.gamepedia.com/A_Servant_of_Death" title="A Servant of Death">A Servant of Death</a></b>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Berath" title="Berath">Berath</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Elms%27_Reach" title="Elms' Reach">Elms' Reach</a> – <a href="http://pillarsofeternity.gamepedia.com/Teir_Evron" title="Teir Evron">Teir Evron</a>
+  :notes: |2+
+
+  :quest_type: side
+  :done: true
+  :have: false
+- :name: |2
+     <b><a href="http://pillarsofeternity.gamepedia.com/A_Two_Story_Job" title="A Two Story Job">A Two Story Job</a></b>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/index.php?title=Abrecan_Doemenel&amp;action=edit&amp;redlink=1" class="new" title="Abrecan Doemenel (page does not exist)">Abrecan Doemenel</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Copperlane" title="Copperlane">Copperlane</a> <br> <a href="http://pillarsofeternity.gamepedia.com/Brackenbury" title="Brackenbury" class="mw-redirect">Brackenbury</a> – <a href="http://pillarsofeternity.gamepedia.com/House_Doemenel" title="House Doemenel">House Doemenel</a>
+  :notes: |2
+     Can be received directly from Abrecan Doemenel or by finding the thieves in Copperlane independently.
+  :quest_type: side
+  :done: true
+  :have: false
+- :name: |2
+     <b><a href="http://pillarsofeternity.gamepedia.com/A_Voice_from_the_Past" title="A Voice from the Past">A Voice from the Past</a></b>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/index.php?title=Dalton&amp;action=edit&amp;redlink=1" class="new" title="Dalton (page does not exist)">Dalton</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Copperlane" title="Copperlane">Copperlane</a>
+  :notes: |2+
+
+  :quest_type: side
+  :done: true
+  :have: false
+- :name: |2
+     <b><a href="http://pillarsofeternity.gamepedia.com/All_Hands_on_Deck" title="All Hands on Deck">All Hands on Deck</a></b>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/index.php?title=Marceno&amp;action=edit&amp;redlink=1" class="new" title="Marceno (page does not exist)">Marceno</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Ondra%27s_Gift" title="Ondra's Gift">Ondra's Gift</a>
+  :notes: |2+
+
+  :quest_type: side
+  :done: false
+  :have: true
+- :name: |2
+     <b><a href="http://pillarsofeternity.gamepedia.com/At_All_Costs" title="At All Costs">At All Costs</a></b>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/index.php?title=Verzano&amp;action=edit&amp;redlink=1" class="new" title="Verzano (page does not exist)">Verzano</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Ondra%27s_Gift" title="Ondra's Gift">Ondra's Gift</a> – <a href="http://pillarsofeternity.gamepedia.com/index.php?title=Vailian_Trading_Company&amp;action=edit&amp;redlink=1" class="new" title="Vailian Trading Company (page does not exist)">Vailian Trading Company</a>
+  :notes: |2+
+
+  :quest_type: side
+  :done: true
+  :have: false
+- :name: |2
+     <b><a href="http://pillarsofeternity.gamepedia.com/At_the_Mercy_of_the_Tribes" title="At the Mercy of the Tribes">At the Mercy of the Tribes</a></b>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/index.php?title=Cwineth&amp;action=edit&amp;redlink=1" class="new" title="Cwineth (page does not exist)">Cwineth</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Hearthsong" title="Hearthsong">Hearthsong</a> - <a href="http://pillarsofeternity.gamepedia.com/index.php?title=Celestial_Sapling_Inn&amp;action=edit&amp;redlink=1" class="new" title="Celestial Sapling Inn (page does not exist)">Celestial Sapling Inn</a>
+  :notes: |2+
+
+  :quest_type: side
+  :done: true
+  :have: false
+- :name: |2
+     <b><a href="http://pillarsofeternity.gamepedia.com/Blood_Legacy" title="Blood Legacy">Blood Legacy</a></b>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Lord_Harond" title="Lord Harond">Lord Harond</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Dyrford" title="Dyrford">Dyrford</a> – <a href="http://pillarsofeternity.gamepedia.com/Dracogen_Inn" title="Dracogen Inn">Dracogen Inn</a>
+  :notes: |2+
+
+  :quest_type: side
+  :done: true
+  :have: false
+- :name: |2
+     <b><a href="http://pillarsofeternity.gamepedia.com/Built_to_Last" title="Built to Last">Built to Last</a></b>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/index.php?title=Clyver&amp;action=edit&amp;redlink=1" class="new" title="Clyver (page does not exist)">Clyver</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/First_Fires" title="First Fires">First Fires</a> – <a href="http://pillarsofeternity.gamepedia.com/Crucible_Keep" title="Crucible Keep">Crucible Keep</a>
+  :notes: |2+
+
+  :quest_type: side
+  :done: false
+  :have: true
+- :name: |2
+     <b><a href="http://pillarsofeternity.gamepedia.com/Buried_Secrets" title="Buried Secrets">Buried Secrets</a></b>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Wirtan" title="Wirtan">Wirtan</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Gilded_Vale" title="Gilded Vale">Gilded Vale</a> – <a href="http://pillarsofeternity.gamepedia.com/Temple_of_Eothas" title="Temple of Eothas">Temple of Eothas</a>
+  :notes: |2+
+
+  :quest_type: side
+  :done: true
+  :have: false
+- :name: |2
+     <b><a href="http://pillarsofeternity.gamepedia.com/Cinders_of_Faith" title="Cinders of Faith">Cinders of Faith</a></b>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Fyrga" title="Fyrga">Fyrga</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/First_Fires" title="First Fires">First Fires</a> – <a href="http://pillarsofeternity.gamepedia.com/Ducal_Palace" title="Ducal Palace">Ducal Palace</a>
+  :notes: |2+
+
+  :quest_type: side
+  :done: true
+  :have: false
+- :name: |2
+     <b><a href="http://pillarsofeternity.gamepedia.com/Far_from_Home" title="Far from Home">Far from Home</a></b>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/index.php?title=Thristwn&amp;action=edit&amp;redlink=1" class="new" title="Thristwn (page does not exist)">Thristwn</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Brackenbury" title="Brackenbury" class="mw-redirect">Brackenbury</a> – <a href="http://pillarsofeternity.gamepedia.com/index.php?title=The_Charred_Barrel&amp;action=edit&amp;redlink=1" class="new" title="The Charred Barrel (page does not exist)">The Charred Barrel</a>
+  :notes: |2+
+
+  :quest_type: side
+  :done: true
+  :have: false
+- :name: |2-
+     <b><a href="http://pillarsofeternity.gamepedia.com/index.php?title=His_Better_Half&amp;action=edit&amp;redlink=1" class="new" title="His Better Half (page does not exist)">His Better Half</a></b> <small><a href="http://pillarsofeternity.gamepedia.com/The_White_March_-_Part_I" title="The White March - Part I" class="mw-redirect">[WM1]</a><small>
+    </small></small>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/index.php?title=Ygadr&amp;action=edit&amp;redlink=1" class="new" title="Ygadr (page does not exist)">Ygadr</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Longwatch_Falls" title="Longwatch Falls">Longwatch Falls</a>
+  :notes: 
+  :quest_type: side
+  :done: 
+  :have: 
+- :name: |2
+     <b><a href="http://pillarsofeternity.gamepedia.com/His_Old_Self" title="His Old Self">His Old Self</a></b>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/index.php?title=Kaenra&amp;action=edit&amp;redlink=1" class="new" title="Kaenra (page does not exist)">Kaenra</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Copperlane" title="Copperlane">Copperlane</a> – <a href="http://pillarsofeternity.gamepedia.com/Goose_and_Fox" title="Goose and Fox">Goose and Fox</a>
+  :notes: |2+
+
+  :quest_type: side
+  :done: true
+  :have: false
+- :name: |2
+     <b><a href="http://pillarsofeternity.gamepedia.com/Hunter,_Brother" title="Hunter, Brother">Hunter, Brother</a></b>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/index.php?title=R%C3%AEda%C3%AE&amp;action=edit&amp;redlink=1" class="new" title="Rîdaî (page does not exist)">Rîdaî</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Hearthsong" title="Hearthsong">Hearthsong</a> – <a href="http://pillarsofeternity.gamepedia.com/index.php?title=Passage_of_the_Six&amp;action=edit&amp;redlink=1" class="new" title="Passage of the Six (page does not exist)">Passage of the Six</a>
+  :notes: |2+
+
+  :quest_type: side
+  :done: true
+  :have: false
+- :name: |2
+     <b><a href="http://pillarsofeternity.gamepedia.com/Into_the_White_Void" title="Into the White Void">Into the White Void</a></b>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Rymrgand" title="Rymrgand">Rymrgand</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Elms%27_Reach" title="Elms' Reach">Elms' Reach</a> – <a href="http://pillarsofeternity.gamepedia.com/Teir_Evron" title="Teir Evron">Teir Evron</a>
+  :notes: |2+
+
+  :quest_type: side
+  :done: true
+  :have: false
+- :name: |2
+     <b><a href="http://pillarsofeternity.gamepedia.com/Lord_of_a_Barren_Land" title="Lord of a Barren Land">Lord of a Barren Land</a></b>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Kolsc" title="Kolsc">Kolsc</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Gilded_Vale" title="Gilded Vale">Gilded Vale</a>
+  :notes: |2+
+
+  :quest_type: side
+  :done: true
+  :have: false
+- :name: |2-
+     <b><a href="http://pillarsofeternity.gamepedia.com/index.php?title=Overstaying_His_Welcome&amp;action=edit&amp;redlink=1" class="new" title="Overstaying His Welcome (page does not exist)">Overstaying His Welcome</a></b> <small><a href="http://pillarsofeternity.gamepedia.com/The_White_March_-_Part_I" title="The White March - Part I" class="mw-redirect">[WM1]</a><small>
+    </small></small>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/index.php?title=Haeferic&amp;action=edit&amp;redlink=1" class="new" title="Haeferic (page does not exist)">Haeferic</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Stalwart" title="Stalwart" class="mw-redirect">Stalwart</a> - <a href="http://pillarsofeternity.gamepedia.com/index.php?title=Gr%C3%A9f%27s_Rest&amp;action=edit&amp;redlink=1" class="new" title="Gréf's Rest (page does not exist)">Gréf's Rest</a>
+  :notes: 
+  :quest_type: side
+  :done: 
+  :have: 
+- :name: |2
+     <b><a href="http://pillarsofeternity.gamepedia.com/Prison_of_Ice" title="Prison of Ice">Prison of Ice</a></b>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/index.php?title=Larha&amp;action=edit&amp;redlink=1" class="new" title="Larha (page does not exist)">Larha</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Oldsong" title="Oldsong">Oldsong</a> – <a href="http://pillarsofeternity.gamepedia.com/Galawain%27s_Maw" title="Galawain's Maw">Galawain's Maw</a>
+  :notes: |2+
+
+  :quest_type: side
+  :done: true
+  :have: false
+- :name: |2-
+     <b><a href="http://pillarsofeternity.gamepedia.com/index.php?title=Regrets_Worth_Trading&amp;action=edit&amp;redlink=1" class="new" title="Regrets Worth Trading (page does not exist)">Regrets Worth Trading</a></b> <small><a href="http://pillarsofeternity.gamepedia.com/The_White_March_-_Part_I" title="The White March - Part I" class="mw-redirect">[WM1]</a><small>
+    </small></small>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/index.php?title=Okrun&amp;action=edit&amp;redlink=1" class="new" title="Okrun (page does not exist)">Okrun</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Stalwart" title="Stalwart" class="mw-redirect">Stalwart</a>
+  :notes: 
+  :quest_type: side
+  :done: 
+  :have: 
+- :name: |2
+     <b><a href="http://pillarsofeternity.gamepedia.com/Rogue_Knight" title="Rogue Knight">Rogue Knight</a></b>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Osric" title="Osric">Osric</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Copperlane" title="Copperlane">Copperlane</a> – <a href="http://pillarsofeternity.gamepedia.com/index.php?title=Admeth%27s_Den&amp;action=edit&amp;redlink=1" class="new" title="Admeth's Den (page does not exist)">Admeth's Den</a>
+  :notes: |2+
+
+  :quest_type: side
+  :done: true
+  :have: false
+- :name: |2
+     <b><a href="http://pillarsofeternity.gamepedia.com/Sacrificial_Bloodlines" title="Sacrificial Bloodlines">Sacrificial Bloodlines</a></b>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/index.php?title=Simoc&amp;action=edit&amp;redlink=1" class="new" title="Simoc (page does not exist)">Simoc</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Elms%27_Reach" title="Elms' Reach">Elms' Reach</a> – <a href="http://pillarsofeternity.gamepedia.com/index.php?title=Warrior%27s_Hall&amp;action=edit&amp;redlink=1" class="new" title="Warrior's Hall (page does not exist)">Warrior's Hall</a>
+  :notes: |2+
+
+  :quest_type: side
+  :done: true
+  :have: false
+- :name: |2-
+     <b><a href="http://pillarsofeternity.gamepedia.com/Siege_of_Cr%C3%A4gholdt" title="Siege of Crägholdt">Siege of Crägholdt</a></b> <small><a href="http://pillarsofeternity.gamepedia.com/The_White_March_-_Part_I" title="The White March - Part I" class="mw-redirect">[WM1]</a><small>
+    </small></small>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/index.php?title=Steward&amp;action=edit&amp;redlink=1" class="new" title="Steward (page does not exist)">Steward</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Caed_Nua" title="Caed Nua">Caed Nua</a>
+  :notes: |2+
+
+  :quest_type: side
+  :done: false
+  :have: true
+- :name: |2
+     <b><a href="http://pillarsofeternity.gamepedia.com/Supply_and_Demand" title="Supply and Demand">Supply and Demand</a></b>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/index.php?title=Maea&amp;action=edit&amp;redlink=1" class="new" title="Maea (page does not exist)">Maea</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Ondra%27s_Gift" title="Ondra's Gift">Ondra's Gift</a> – <a href="http://pillarsofeternity.gamepedia.com/index.php?title=The_Salty_Mast&amp;action=edit&amp;redlink=1" class="new" title="The Salty Mast (page does not exist)">The Salty Mast</a>
+  :notes: |2+
+
+  :quest_type: side
+  :done: true
+  :have: false
+- :name: |2
+     <b><a href="http://pillarsofeternity.gamepedia.com/The_Bronze_Beneath_the_Lake" title="The Bronze Beneath the Lake">The Bronze Beneath the Lake</a></b>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/index.php?title=Wenan&amp;action=edit&amp;redlink=1" class="new" title="Wenan (page does not exist)">Wenan</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Copperlane" title="Copperlane">Copperlane</a> – <a href="http://pillarsofeternity.gamepedia.com/index.php?title=Admeth%27s_Den&amp;action=edit&amp;redlink=1" class="new" title="Admeth's Den (page does not exist)">Admeth's Den</a>
+  :notes: |2
+     Requires completion of <a href="http://pillarsofeternity.gamepedia.com/Rogue_Knight" title="Rogue Knight">Rogue Knight</a>, refused if you've accepted <a href="http://pillarsofeternity.gamepedia.com/The_Changing_of_the_Guard" title="The Changing of the Guard">The Changing of the Guard</a> or <a href="http://pillarsofeternity.gamepedia.com/Winds_of_Steel" title="Winds of Steel">Winds of Steel</a>.
+  :quest_type: side
+  :done: true
+  :have: false
+- :name: |2
+     <b><a href="http://pillarsofeternity.gamepedia.com/The_Champion_of_Berath" title="The Champion of Berath">The Champion of Berath</a></b>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/index.php?title=Frightened_Villager&amp;action=edit&amp;redlink=1" class="new" title="Frightened Villager (page does not exist)">Frightened Villager</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Hearthsong" title="Hearthsong">Hearthsong</a> – <a href="http://pillarsofeternity.gamepedia.com/index.php?title=Celestial_Sapling&amp;action=edit&amp;redlink=1" class="new" title="Celestial Sapling (page does not exist)">Celestial Sapling</a>
+  :notes: |2
+     Requires completion of <a href="http://pillarsofeternity.gamepedia.com/Lord_of_a_Barren_Land" title="Lord of a Barren Land">Lord of a Barren Land</a>.
+  :quest_type: side
+  :done: true
+  :have: false
+- :name: |2
+     <b><a href="http://pillarsofeternity.gamepedia.com/The_Changing_of_the_Guard" title="The Changing of the Guard">The Changing of the Guard</a></b>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/index.php?title=Gedmar_Doemenel&amp;action=edit&amp;redlink=1" class="new" title="Gedmar Doemenel (page does not exist)">Gedmar Doemenel</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Brackenbury" title="Brackenbury" class="mw-redirect">Brackenbury</a> – <a href="http://pillarsofeternity.gamepedia.com/House_Doemenel" title="House Doemenel">House Doemenel</a>
+  :notes: |2
+     Requires completion of <a href="http://pillarsofeternity.gamepedia.com/A_Two_Story_Job" title="A Two Story Job">A Two Story Job</a>, refused if you've accepted <a href="http://pillarsofeternity.gamepedia.com/The_Bronze_Beneath_the_Lake" title="The Bronze Beneath the Lake">The Bronze Beneath the Lake</a> or <a href="http://pillarsofeternity.gamepedia.com/Winds_of_Steel" title="Winds of Steel">Winds of Steel</a>.
+  :quest_type: side
+  :done: true
+  :have: false
+- :name: |2
+     <b><a href="http://pillarsofeternity.gamepedia.com/The_Final_Act" title="The Final Act">The Final Act</a></b>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/index.php?title=Kurren&amp;action=edit&amp;redlink=1" class="new" title="Kurren (page does not exist)">Kurren</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Brackenbury" title="Brackenbury" class="mw-redirect">Brackenbury</a> – <a href="http://pillarsofeternity.gamepedia.com/Hadret_House" title="Hadret House">Hadret House</a>
+  :notes: |2+
+
+  :quest_type: side
+  :done: false
+  :have: true
+- :name: |2-
+     <b><a href="http://pillarsofeternity.gamepedia.com/index.php?title=The_Grey_Sleeper_(quest)&amp;action=edit&amp;redlink=1" class="new" title="The Grey Sleeper (quest) (page does not exist)">The Grey Sleeper</a></b> <small><a href="http://pillarsofeternity.gamepedia.com/The_White_March_-_Part_I" title="The White March - Part I" class="mw-redirect">[WM1]</a><small>
+    </small></small>
+  :person: |2
+     -
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Longwatch_Falls" title="Longwatch Falls">Longwatch Falls</a>
+  :notes: |2
+     pull out <a href="http://pillarsofeternity.gamepedia.com/The_Grey_Sleeper" title="The Grey Sleeper">The Grey Sleeper</a> to start the quest
+  :quest_type: side
+  :done: 
+  :have: 
+- :name: |2-
+     <b><a href="http://pillarsofeternity.gamepedia.com/The_Hunter%27s_Favor" title="The Hunter's Favor">The Hunter's Favor</a></b> <small><a href="http://pillarsofeternity.gamepedia.com/The_White_March_-_Part_I" title="The White March - Part I" class="mw-redirect">[WM1]</a><small>
+    </small></small>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/index.php?title=Thyrsc&amp;action=edit&amp;redlink=1" class="new" title="Thyrsc (page does not exist)">Thyrsc</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Stalwart" title="Stalwart" class="mw-redirect">Stalwart</a>
+  :notes: |2+
+
+  :quest_type: side
+  :done: 
+  :have: 
+- :name: |2
+     <b><a href="http://pillarsofeternity.gamepedia.com/The_Master_Below" title="The Master Below">The Master Below</a></b>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/index.php?title=Steward&amp;action=edit&amp;redlink=1" class="new" title="Steward (page does not exist)">Steward</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Caed_Nua" title="Caed Nua">Caed Nua</a> – Keep
+  :notes: |2
+     Requires completion of <a href="http://pillarsofeternity.gamepedia.com/The_Old_Watcher" title="The Old Watcher">The Old Watcher</a>.
+  :quest_type: side
+  :done: false
+  :have: true
+- :name: |2
+     <b><a href="http://pillarsofeternity.gamepedia.com/The_Master%27s_Tools" title="The Master's Tools">The Master's Tools</a></b>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/index.php?title=Tcharek&amp;action=edit&amp;redlink=1" class="new" title="Tcharek (page does not exist)">Tcharek</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Endless_Paths_of_Od_Nua" title="Endless Paths of Od Nua">Endless Paths of Od Nua</a> – <a href="http://pillarsofeternity.gamepedia.com/Endless_Paths_of_Od_Nua_Level_12" title="Endless Paths of Od Nua Level 12">Level 12</a>
+  :notes: |2+
+
+  :quest_type: side
+  :done: 
+  :have: 
+- :name: |2
+     <b><a href="http://pillarsofeternity.gamepedia.com/The_Nest_Above_the_Clouds" title="The Nest Above the Clouds">The Nest Above the Clouds</a></b>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Hylea" title="Hylea">Hylea</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Elms%27_Reach" title="Elms' Reach">Elms' Reach</a> – <a href="http://pillarsofeternity.gamepedia.com/Teir_Evron" title="Teir Evron">Teir Evron</a>
+  :notes: |2+
+
+  :quest_type: side
+  :done: true
+  :have: false
+- :name: |2
+     <b><a href="http://pillarsofeternity.gamepedia.com/The_Old_Queen_and_the_New_King" title="The Old Queen and the New King">The Old Queen and the New King</a></b>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Galawain" title="Galawain">Galawain</a><br><a href="http://pillarsofeternity.gamepedia.com/index.php?title=Desthwn&amp;action=edit&amp;redlink=1" class="new" title="Desthwn (page does not exist)">Desthwn</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Elms%27_Reach" title="Elms' Reach">Elms' Reach</a> – <a href="http://pillarsofeternity.gamepedia.com/Teir_Evron" title="Teir Evron">Teir Evron</a><br><a href="http://pillarsofeternity.gamepedia.com/Oldsong" title="Oldsong">Oldsong</a> – <a href="http://pillarsofeternity.gamepedia.com/Galawain%27s_Maw" title="Galawain's Maw">Galawain's Maw</a>
+  :notes: |2
+     Can be received either from Galawain directly or from Desthwn.
+  :quest_type: side
+  :done: true
+  :have: false
+- :name: |2
+     <b><a href="http://pillarsofeternity.gamepedia.com/The_Smith%27s_Shipment" title="The Smith's Shipment">The Smith's Shipment</a></b>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Tuatanu" title="Tuatanu">Tuatanu</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Gilded_Vale" title="Gilded Vale">Gilded Vale</a> – <a href="http://pillarsofeternity.gamepedia.com/index.php?title=Black_Hammer_Smithery&amp;action=edit&amp;redlink=1" class="new" title="Black Hammer Smithery (page does not exist)">Black Hammer Smithery</a>
+  :notes: |2+
+
+  :quest_type: side
+  :done: true
+  :have: false
+- :name: |2
+     <b><a href="http://pillarsofeternity.gamepedia.com/The_Theorems_of_Pandgram" title="The Theorems of Pandgram">The Theorems of Pandgram</a></b>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/index.php?title=Nedyn&amp;action=edit&amp;redlink=1" class="new" title="Nedyn (page does not exist)">Nedyn</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Brackenbury" title="Brackenbury" class="mw-redirect">Brackenbury</a>
+  :notes: |2+
+
+  :quest_type: side
+  :done: false
+  :have: true
+- :name: |2
+     <b><a href="http://pillarsofeternity.gamepedia.com/The_Wailing_Banshee" title="The Wailing Banshee">The Wailing Banshee</a></b>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/index.php?title=Niah&amp;action=edit&amp;redlink=1" class="new" title="Niah (page does not exist)">Niah</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Ondra%27s_Gift" title="Ondra's Gift">Ondra's Gift</a>
+  :notes: |2+
+
+  :quest_type: side
+  :done: false
+  :have: true
+- :name: |2
+     <b><a href="http://pillarsofeternity.gamepedia.com/Winds_of_Steel" title="Winds of Steel">Winds of Steel</a></b>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/index.php?title=Clyver&amp;action=edit&amp;redlink=1" class="new" title="Clyver (page does not exist)">Clyver</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/First_Fires" title="First Fires">First Fires</a> – <a href="http://pillarsofeternity.gamepedia.com/Crucible_Keep" title="Crucible Keep">Crucible Keep</a>
+  :notes: |2
+     Requires completion of <a href="http://pillarsofeternity.gamepedia.com/Built_to_Last" title="Built to Last">Built to Last</a>, refused if you've accepted <a href="http://pillarsofeternity.gamepedia.com/The_Bronze_Beneath_the_Lake" title="The Bronze Beneath the Lake">The Bronze Beneath the Lake</a> or <a href="http://pillarsofeternity.gamepedia.com/The_Changing_of_the_Guard" title="The Changing of the Guard">The Changing of the Guard</a>.
+  :quest_type: side
+  :done: true
+  :have: false
+- :name: |2
+     <b><a href="http://pillarsofeternity.gamepedia.com/Against_the_Grain" title="Against the Grain">Against the Grain</a></b>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Trumbel" title="Trumbel">Trumbel</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Gilded_Vale" title="Gilded Vale">Gilded Vale</a>
+  :notes: |2+
+
+  :quest_type: main
+  :done: true
+  :have: false
+- :name: |2
+     <b><a href="http://pillarsofeternity.gamepedia.com/All_Hands_on_Deck" title="All Hands on Deck">All Hands on Deck</a></b>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/index.php?title=Marceno&amp;action=edit&amp;redlink=1" class="new" title="Marceno (page does not exist)">Marceno</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Ondra%27s_Gift" title="Ondra's Gift">Ondra's Gift</a>
+  :notes: |2+
+
+  :quest_type: main
+  :done: true
+  :have: false
+- :name: |2
+     <b><a href="http://pillarsofeternity.gamepedia.com/Brave_Derrin" title="Brave Derrin">Brave Derrin</a></b>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/index.php?title=Odda&amp;action=edit&amp;redlink=1" class="new" title="Odda (page does not exist)">Odda</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Ondra%27s_Gift" title="Ondra's Gift">Ondra's Gift</a>
+  :notes: |2
+     Can also be started by finding <a href="http://pillarsofeternity.gamepedia.com/index.php?title=Derrin&amp;action=edit&amp;redlink=1" class="new" title="Derrin (page does not exist)">Derrin</a>
+  :quest_type: main
+  :done: false
+  :have: true
+- :name: |2
+     <b><a href="http://pillarsofeternity.gamepedia.com/Cat_and_Mouse" title="Cat and Mouse">Cat and Mouse</a></b>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Nyfre" title="Nyfre">Nyfre</a> or <a href="http://pillarsofeternity.gamepedia.com/Medreth" title="Medreth">Medreth</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Dyrford" title="Dyrford">Dyrford</a>
+  :notes: |2+
+
+  :quest_type: main
+  :done: false
+  :have: true
+- :name: |2
+     <b><a href="http://pillarsofeternity.gamepedia.com/Desperate_Measures" title="Desperate Measures">Desperate Measures</a></b>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/index.php?title=Thulgar&amp;action=edit&amp;redlink=1" class="new" title="Thulgar (page does not exist)">Thulgar</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Endless_Paths_of_Od_Nua_Level_3" title="Endless Paths of Od Nua Level 3">Endless Paths of Od Nua Level 3</a>
+  :notes: |2+
+
+  :quest_type: main
+  :done: true
+  :have: false
+- :name: |2
+     <b><a href="http://pillarsofeternity.gamepedia.com/Clandestine_Cargo" title="Clandestine Cargo">Clandestine Cargo</a></b>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/index.php?title=Imatl&amp;action=edit&amp;redlink=1" class="new" title="Imatl (page does not exist)">Imatl</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Ondra%27s_Gift" title="Ondra's Gift">Ondra's Gift</a>
+  :notes: |2+
+
+  :quest_type: main
+  :done: false
+  :have: true
+- :name: |2
+     <b><a href="http://pillarsofeternity.gamepedia.com/Ferry_Floatsam" title="Ferry Floatsam" class="mw-redirect">Ferry Floatsam</a></b>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/index.php?title=Peregund&amp;action=edit&amp;redlink=1" class="new" title="Peregund (page does not exist)">Peregund</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Madhmr_Bridge" title="Madhmr Bridge">Madhmr Bridge</a>
+  :notes: |2+
+
+  :quest_type: main
+  :done: true
+  :have: false
+- :name: |2-
+     <b><a href="http://pillarsofeternity.gamepedia.com/index.php?title=Garodh%27s_Chorus&amp;action=edit&amp;redlink=1" class="new" title="Garodh's Chorus (page does not exist)">Garodh's Chorus</a></b> <small><a href="http://pillarsofeternity.gamepedia.com/The_White_March_-_Part_I" title="The White March - Part I" class="mw-redirect">[WM1]</a><small>
+    </small></small>
+  :person: |2
+     N/A
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/index.php?title=Flames-That-Whisper&amp;action=edit&amp;redlink=1" class="new" title="Flames-That-Whisper (page does not exist)">Flames-That-Whisper</a>
+  :notes: |2
+     loot the horn from the chest in the center-north chamber of the lower level, to start the quest
+  :quest_type: main
+  :done: 
+  :have: 
+- :name: |2
+     <b><a href="http://pillarsofeternity.gamepedia.com/Hard_Bargain" title="Hard Bargain">Hard Bargain</a></b>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Rinatto" title="Rinatto">Rinatto</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Hearthsong" title="Hearthsong">Hearthsong</a>
+  :notes: |2+
+
+  :quest_type: main
+  :done: true
+  :have: false
+- :name: |2
+     <b><a href="http://pillarsofeternity.gamepedia.com/Hard_Feelings" title="Hard Feelings">Hard Feelings</a></b>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/index.php?title=Bricanta_Doemenel&amp;action=edit&amp;redlink=1" class="new" title="Bricanta Doemenel (page does not exist)">Bricanta Doemenel</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Brackenbury" title="Brackenbury" class="mw-redirect">Brackenbury</a>
+  :notes: |2
+     Requires <a href="http://pillarsofeternity.gamepedia.com/A_Two_Story_Job" title="A Two Story Job">A Two Story Job</a> to be completed in favor of <a href="http://pillarsofeternity.gamepedia.com/House_Doemenel" title="House Doemenel">House Doemenel</a>
+  :quest_type: main
+  :done: false
+  :have: true
+- :name: |2
+     <b><a href="http://pillarsofeternity.gamepedia.com/Late_for_Dinner" title="Late for Dinner">Late for Dinner</a></b>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Pasca" title="Pasca">Pasca</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Gilded_Vale" title="Gilded Vale">Gilded Vale</a>
+  :notes: |2
+     Can also be started by rescuing <a href="http://pillarsofeternity.gamepedia.com/Tenfrith" title="Tenfrith">Tenfrith</a> in <a href="http://pillarsofeternity.gamepedia.com/Valewood" title="Valewood">Valewood</a>
+  :quest_type: main
+  :done: true
+  :have: false
+- :name: |2
+     <b><a href="http://pillarsofeternity.gamepedia.com/Missing_Sentries" title="Missing Sentries">Missing Sentries</a></b>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/index.php?title=Wyla&amp;action=edit&amp;redlink=1" class="new" title="Wyla (page does not exist)">Wyla</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Crucible_Keep" title="Crucible Keep">Crucible Keep</a>
+  :notes: |2+
+
+  :quest_type: main
+  :done: false
+  :have: true
+- :name: |2
+     <b><a href="http://pillarsofeternity.gamepedia.com/Nest_Egg" title="Nest Egg">Nest Egg</a></b>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Hendyna" title="Hendyna">Hendyna</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Dyrford" title="Dyrford">Dyrford</a>
+  :notes: |2+
+
+  :quest_type: main
+  :done: true
+  :have: false
+- :name: |2-
+     <b><a href="http://pillarsofeternity.gamepedia.com/index.php?title=Sacred_Instruments&amp;action=edit&amp;redlink=1" class="new" title="Sacred Instruments (page does not exist)">Sacred Instruments</a></b> <small><a href="http://pillarsofeternity.gamepedia.com/The_White_March_-_Part_I" title="The White March - Part I" class="mw-redirect">[WM1]</a><small>
+    </small></small>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/index.php?title=Ista&amp;action=edit&amp;redlink=1" class="new" title="Ista (page does not exist)">Ista</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Stalwart" title="Stalwart" class="mw-redirect">Stalwart</a>
+  :notes: |2+
+
+  :quest_type: main
+  :done: 
+  :have: 
+- :name: |2
+     <b><a href="http://pillarsofeternity.gamepedia.com/Safe_Haven" title="Safe Haven">Safe Haven</a></b>
+  :person: |2
+     N/A
+  :location: |2
+     Valtas Manor, <a href="http://pillarsofeternity.gamepedia.com/Heritage_Hill" title="Heritage Hill">Heritage Hill</a>
+  :notes: |2
+     Started when encountering undead in Valtas Manor
+  :quest_type: main
+  :done: true
+  :have: false
+- :name: |2
+     <b><a href="http://pillarsofeternity.gamepedia.com/Something_Secret" title="Something Secret">Something Secret</a></b>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/index.php?title=Gordy&amp;action=edit&amp;redlink=1" class="new" title="Gordy (page does not exist)">Gordy</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Copperlane" title="Copperlane">Copperlane</a>
+  :notes: |2+
+
+  :quest_type: main
+  :done: true
+  :have: false
+- :name: |2
+     <b><a href="http://pillarsofeternity.gamepedia.com/Songs_of_the_Wild" title="Songs of the Wild">Songs of the Wild</a></b>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/index.php?title=Delem&amp;action=edit&amp;redlink=1" class="new" title="Delem (page does not exist)">Delem</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Oldsong" title="Oldsong">Oldsong</a>
+  :notes: |2+
+
+  :quest_type: main
+  :done: true
+  :have: false
+- :name: |2
+     <b><a href="http://pillarsofeternity.gamepedia.com/The_Blade_of_the_Endless_Paths" title="The Blade of the Endless Paths">The Blade of the Endless Paths</a></b>
+  :person: |2
+     N/A
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Endless_Paths_of_Od_Nua" title="Endless Paths of Od Nua">Endless Paths of Od Nua</a>
+  :notes: |2
+     Started by finding any of the blade's pieces
+  :quest_type: main
+  :done: false
+  :have: true
+- :name: |2-
+     <b><a href="http://pillarsofeternity.gamepedia.com/index.php?title=The_Fisherman%27s_Penance&amp;action=edit&amp;redlink=1" class="new" title="The Fisherman's Penance (page does not exist)">The Fisherman's Penance</a></b> <small><a href="http://pillarsofeternity.gamepedia.com/The_White_March_-_Part_I" title="The White March - Part I" class="mw-redirect">[WM1]</a><small>
+    </small></small>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/index.php?title=Galvino&amp;action=edit&amp;redlink=1" class="new" title="Galvino (page does not exist)">Galvino</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Durgan%27s_Battery" title="Durgan's Battery">Durgan's Battery</a>
+  :notes: |2+
+
+  :quest_type: main
+  :done: 
+  :have: 
+- :name: |2
+     <b><a href="http://pillarsofeternity.gamepedia.com/The_Forgotten" title="The Forgotten">The Forgotten</a></b>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/index.php?title=Vicent_Agosti&amp;action=edit&amp;redlink=1" class="new" title="Vicent Agosti (page does not exist)">Vicent Agosti</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/First_Fires" title="First Fires">First Fires</a> – <a href="http://pillarsofeternity.gamepedia.com/Vailian_Embassy" title="Vailian Embassy">Vailian Embassy</a>
+  :notes: |2+
+
+  :quest_type: main
+  :done: false
+  :have: true
+- :name: |2
+     <b><a href="http://pillarsofeternity.gamepedia.com/The_Parable_of_Wael" title="The Parable of Wael">The Parable of Wael</a></b>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/index.php?title=Grimda&amp;action=edit&amp;redlink=1" class="new" title="Grimda (page does not exist)">Grimda</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Copperlane" title="Copperlane">Copperlane</a>
+  :notes: |2+
+
+  :quest_type: main
+  :done: true
+  :have: false
+- :name: |2-
+     <b><a href="http://pillarsofeternity.gamepedia.com/The_Thermal_Pearl" title="The Thermal Pearl">The Thermal Pearl</a></b> <small><a href="http://pillarsofeternity.gamepedia.com/The_White_March_-_Part_I" title="The White March - Part I" class="mw-redirect">[WM1]</a><small>
+    </small></small>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/index.php?title=Tealdor&amp;action=edit&amp;redlink=1" class="new" title="Tealdor (page does not exist)">Tealdor</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Stalwart" title="Stalwart" class="mw-redirect">Stalwart</a>
+  :notes: |2+
+
+  :quest_type: main
+  :done: 
+  :have: 
+- :name: |2
+     <b><a href="http://pillarsofeternity.gamepedia.com/Unwanted" title="Unwanted">Unwanted</a></b>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Eorn" title="Eorn">Eorn</a>
+  :location: |2
+     Defiance Bay Catacombs
+  :notes: |2
+     Can also be started by finding an Edict of Arrest in <a href="http://pillarsofeternity.gamepedia.com/Crucible_Keep" title="Crucible Keep">Crucible Keep</a>
+  :quest_type: main
+  :done: true
+  :have: false
+- :name: |2
+     <b><a href="http://pillarsofeternity.gamepedia.com/Vengeance_from_the_Grave" title="Vengeance from the Grave">Vengeance from the Grave</a></b>
+  :person: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Perly" title="Perly">Perly</a>
+  :location: |2
+     <a href="http://pillarsofeternity.gamepedia.com/Valewood" title="Valewood">Valewood</a>
+  :notes: |2+
+
+  :quest_type: main
+  :done: true
+  :have: false
